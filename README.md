@@ -2,20 +2,22 @@
 
 <br>
 
-<div align="center">
-    📧<b>Email</b>📧<br>
-    hooon.h@gmail.com
-</div>
+<h3>Jihoon Han</h3>
+- 🎓 major in History at SKKU <br>
+- 🌱 currently learning full-stack skills.
+
+<br>
+
+<h3>Ultimate Goal</h3>
+- ✨ Irreplaceable Developer <br>
+- ✨ Study Steadily without being Conceited
+
+<br>
+    
+<h3>How to Reach Me</h3>
+- 📧 Email : hooon.h@gmail.com <br>
 
 <br><br>
-
-<!-- 
-<div align="center">
-    소개👋<br>
-</div>
-
-<br><br>
- -->
 
 
 <!-- 공부했거나 써본 기술 -->
@@ -65,3 +67,5 @@
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jihoon-git&layout=compact&hide_border=true&repo=convoychat" />
     </a>
 </div>
+
+<br><br>
