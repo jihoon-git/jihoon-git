@@ -2,6 +2,7 @@
 
 <br>
 
+<div align="center">
 <h3>Jihoon Han</h3>
 - 🎓 major in History at SKKU <br>
 - 🌱 currently learning full-stack skills.
@@ -16,6 +17,7 @@
     
 <h3>How to Reach Me</h3>
 - 📧 Email : hooon.h@gmail.com <br>
+</div>
 
 <br><br>
 
