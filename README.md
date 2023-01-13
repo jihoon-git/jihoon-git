@@ -2,20 +2,20 @@
 
 
 <div align="center">
-<h3>Jihoon Han</h3>
+<h3>🌱Jihoon Han🌱</h3>
 🎓 major in History at SKKU <br>
 🌱 currently learning full-stack skills.
 
 <br>
 
-<h3>Ultimate Goal</h3>
+<h3> ✨Ultimate Goal✨</h3>
 ✨ Irreplaceable Developer <br>
 ✨ Study Steadily without being Conceited
 
 <br>
     
-<h3>How to Reach Me</h3>
-📧 hooon.h@gmail.com <br>
+<h3>📧How to Reach Me📧</h3>
+hooon.h@gmail.com <br>
 </div>
 
 <br><br>
