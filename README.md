@@ -55,6 +55,7 @@
 
 <br><br>
 
+<!--
 <div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=jihoon-git&repo=github-readme-stats" />
@@ -68,5 +69,6 @@
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jihoon-git&layout=compact&hide_border=true&repo=convoychat" />
     </a>
 </div>
+-->
 
 <br><br>
