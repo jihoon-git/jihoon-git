@@ -1,7 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=8,9,18&height=300&section=header&text=Welcome&fontSize=60&fontAlignY=45&desc=Jihoon's%20GitHub%20Profile&descSize=24&descAlignY=60)
 
-<!--
+
 <div align="center">
+<!--
 <h3>Jihoon Han</h3>
 🎓 major in History at SKKU <br>
 🌱 currently learning full-stack skills.
