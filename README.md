@@ -23,8 +23,7 @@
 
 <br><br>
 
-
-<!-- 공부했거나 써본 기술 -->
+<!--
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
 	<p>✨ Platforms & Languages ✨</p>
@@ -57,7 +56,7 @@
 </div>
 
 <br><br>
-
+ -->
 <!--
 <div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
